@@ -1,0 +1,14 @@
+{
+  "resourceName": "s3e0656856",
+  "policyUUID": "e0656856",
+  "bucketName": "leaguefewebapp87e3c8e68cd746dbbc742954218219b2",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

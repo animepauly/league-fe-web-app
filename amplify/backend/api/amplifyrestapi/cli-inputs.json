@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "paths": {
+    "/players": {
+      "name": "/players",
+      "lambdaFunction": "amplifyrestapifunction",
+      "permissions": {
+        "setting": "private",
+        "auth": [
+          "read"
+        ]
+      }
+    }
+  }
+}
